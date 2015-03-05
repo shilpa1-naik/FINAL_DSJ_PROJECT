@@ -1,0 +1,22 @@
+FILE
+	Info
+	New
+	Open
+	Save
+	Print
+TOOLS
+	Find
+VIEW
+	Navigation_Pane
+	Show_comments
+	Column_width
+		Narrow
+		Default
+		Wide
+	Page_colour
+		None
+		Sepia
+		Inverse
+	Page_Layout
+		Column_Layout
+		Paper_Layout
